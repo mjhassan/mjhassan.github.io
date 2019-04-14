@@ -45,10 +45,10 @@ social:
     url: http://bd.linkedin.com/in/mjhassan/
   - title: stack-overflow
     url: https://stackoverflow.com/users/1459192/x4h1d
-  - title: bitbucket
-    url: https://bitbucket.org/mjhassan/
   - title: github
     url: http://github.com/mjhassan
+  - title: bitbucket
+    url: https://bitbucket.org/mjhassan/
 
 # Postal address (add as many lines as necessary)
 address:
