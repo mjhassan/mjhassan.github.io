@@ -70,7 +70,13 @@ p {
     .profile {
         margin-bottom: 15px;
     }
-
+    .social {
+        padding-top: 12px;
+        word-spacing: 25px;
+    }
+    .social h4 > a {
+        color: #000000;
+    }
     .avatar {
         //used for profile image
         max-width: 100px;
