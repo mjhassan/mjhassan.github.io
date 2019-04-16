@@ -1,11 +1,5 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
-    {% if sidebar.phone %}
-    <li class="phone"><i class="fas fa-phone"></i>
-      <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
-    </li>
-    {% endif %}
-
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
@@ -14,6 +8,10 @@
 
     <div>
       <h4>
+        {% if sidebar.phone %}
+        <a href="tel:{{ sidebar.phone}}" target="_blank"><i class="fas fa-phone"></i></a>
+        {% endif %}
+        
         {% if sidebar.email %}
         <a href="mailto:{{ sidebar.email}}" target="_blank"><i class="fas fa-envelope"></i></a>
         {% endif %}
