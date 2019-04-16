@@ -1,12 +1,5 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
-
-    {% if sidebar.email %}
-    <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
-    </li>
-    {% endif %}
-
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
@@ -21,72 +14,43 @@
 
     <div class="social">
       <h4>
-        {% if site.github %}
-        <a href="http://github.com/{{ site.github }}"><i class="fa fa-github"></i></a>
+        {% if sidebar.email %}
+        <a href="mailto:{{ sidebar.email}}" target="_blank"><i class="fa fa-envelope"></i></a>
         {% endif %}
-        {% if site.email %}
-        <a href="mailto:{{ site.email}}"><i class="fa fa-envelope"></i></a>
+
+        {% if sidebar.twitter %}
+        <a href="http://twitter.com/{{ sidebar.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
         {% endif %}
-    
-        {% if site.twitter %}
-        <a href="http://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a>
+
+        {% if sidebar.linkedin %}
+        <a href="http://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a>
         {% endif %}
-        {% if site.linkedin %}
-        <a href="http://linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a>
+
+
+        {% if sidebar.github %}
+        <a href="http://github.com/{{ sidebar.github }}" target="_blank"><i class="fa fa-github"></i></a>
         {% endif %}
-        {% if site.stackoverflow %}
-        <a href="http://stackoverflow.com/{{ site.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a>
+
+        {% if sidebar.gitlab %}
+        <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank"><i class="fa fa-github"></i></a>
+        {% endif %}
+
+        {% if sidebar.bitbucket %}
+        <a href="http://bitbucket.com/{{ sidebar.bitbucket }}" target="_blank"><i class="fa fa-bitbucket"></i></a>
+        {% endif %}
+
+        {% if sidebar.stackoverflow %}
+        <a href="http://stackoverflow.com/{{ sidebar.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a>
+        {% endif %}
+
+        {% if sidebar.codewars %}
+        <a href="http://codewars.com/{{ sidebar.codewars }}"><i class="fas fa-stack-code"></i></a>
+        {% endif %}
+
+        {% if sidebar.goodreads %}
+        <a href="http://goodreads.com/{{ sidebar.goodreads }}"><i class="fab fa-goodreads-b"></i></a>
         {% endif %}
       </h4>
     </div>
-    <!--
-    {% if sidebar.linkedin %}
-    <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.github %}
-    <li class="github"><i class="fab fa-github"></i>
-      <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.gitlab %}
-    <li class="gitlab"><i class="fab fa-gitlab"></i>
-      <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.bitbucket %}
-    <li class="bitbucket"><i class="fab fa-bitbucket"></i>
-      <a href="http://bitbucket.com/{{ sidebar.bitbucket }}" target="_blank">{{ sidebar.bitbucket }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.twitter %}
-    <li class="twitter"><i class="fab fa-twitter"></i>
-      <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.stack-overflow %}
-    <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
-      <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.codewars %}
-    <li class="codewars"><i class="fas fa-code"></i>
-      <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.goodreads %}
-    <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
-      <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
-    </li>
-    {% endif %}
-  -->
   </ul>
 </div><!--//contact-container-->

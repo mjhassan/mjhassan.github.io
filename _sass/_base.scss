@@ -35,7 +35,13 @@ p {
     position: relative;
     @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
 }
-
+.social {
+    padding-top: 12px;
+    word-spacing: 25px;
+}
+.social h4 > a {
+    color: #000000;
+}
 .sidebar-wrapper {
     background: $theme-color;
     position: absolute;
@@ -69,13 +75,6 @@ p {
     }
     .profile {
         margin-bottom: 15px;
-    }
-    .social {
-        padding-top: 12px;
-        word-spacing: 25px;
-    }
-    .social h4 > a {
-        color: #000000;
     }
     .avatar {
         //used for profile image
