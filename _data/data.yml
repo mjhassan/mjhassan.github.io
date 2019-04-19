@@ -131,25 +131,25 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: FitEverywhere
+        link: "https://itunes.apple.com/us/app/fiteverywhere/id1196160234?mt=8"
+        tagline: "The FitEverywhere® app was designed to be a versatile, and dynamic gym with or without equipment, anytime, anywhere. The fitness experts at XYSTUS® have carefully created a strong yet balanced approach to fitness that can be used alone, with a group of people."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: AR Human - The Heart
+        link: "http://www.infolytx.com/our-insights/portfolio-items/ar-heart/?portfolioCats=55"
+        tagline: "This prototype was engineered to showcase our ability to bring human anatomy to life. A life-like heart in full 3D pops up when a mobile phone’s camera view hovers above a designated marker. Viewers are struck by the ability to rotate and go “inside the heart chambers” as they view the heart on their mobile screens."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Xchange at Secaucus Junction
+        link: "https://itunes.apple.com/us/app/xchange-at-secaucus-junction/id559392801?mt=8"
+        tagline: "Xchange is an iPad application for renting or selling rooms. Sales agents can even search for real-time availability and generate sales contract in real time."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: New-Homes
+        link: "https://itunes.apple.com/us/app/new-homes/id948335191?mt=8"
+        tagline: "The New Homes App is designed for real-estate professionals. With the App you can search and find your clients dream home in our newest communities. Virtual tours, Renderings, Floor plans and views are all simply and elegantly displayed on the iPad."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: nVision Mobile
+        link: "https://itunes.apple.com/us/app/nvision-mobile/id465051611?mt=8"
+        tagline: "nVision Mobile is a sales force solution where sales reps can easily create orders, look up customers, stock information and products. nVision Mobile can be synchronized with all major ERP system using XML documents."
 
 publications:
     title: Publications
