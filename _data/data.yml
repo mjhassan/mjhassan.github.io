@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -35,13 +35,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Jahid Hassan, an iOS engineer, is from Dhaka, Bangladesh where he works as an staff software engineer at Infolytx Bangladesh Linited. He has more than seven years of experience with iOS with a focus on Swift. In spare time, Jahid enjoys playing with other technologies and good music.
+      You can [download this resume here]().
 
 education:
     - degree: BSc in Computer Science and Engineering
