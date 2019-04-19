@@ -33,10 +33,10 @@ sidebar:
         level: Native
 
 career-profile:
-    title: Career Profile
+    title: Bio
     summary: |
-      Jahid Hassan, an iOS engineer, is from Dhaka, Bangladesh where he works as an staff software engineer at Infolytx Bangladesh Linited. He has more than seven years of experience with iOS with a focus on Swift. In spare time, Jahid enjoys playing with other technologies and good music.
-      You can [download this resume here]().
+      Jahid Hassan, an iOS engineer, is from Dhaka, Bangladesh where he works as an staff software engineer at Infolytx Bangladesh Limited. He has more than seven years of experience with iOS with a focus on Swift. In spare time, Jahid enjoys playing with other technologies and good music.
+      You can [download this resume here](https://raw.githubusercontent.com/mjhassan/mjhassan.github.io/master/Resum%C3%A9%20of%20Jahid%20Hassan.pdf).
 
 education:
     - degree: BSc in Computer Science and Engineering
