@@ -35,13 +35,13 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      Jahid Hassan, an iOS engineer, is from Dhaka, Bangladesh where he works as an staff software engineer at Infolytx Bangladesh Limited. He has more than seven years of experience with iOS with a focus on Swift. In spare time, Jahid enjoys playing with other technologies and good music.
-      You can [download this resume here](https://raw.githubusercontent.com/mjhassan/mjhassan.github.io/master/Resum%C3%A9%20of%20Jahid%20Hassan.pdf).
+      Jahid Hassan, an iOS engineer, is from Dhaka, Bangladesh where he works as an staff software engineer at Infolytx Bangladesh Limited. He has around eight of experience with iOS with a focus on Swift. In spare time, Jahid enjoys playing with other technologies and good music.
+      You can [download this resume here](https://raw.githubusercontent.com/mjhassan/mjhassan.github.io/master/Resume%20of%20Jahid%20Hassan.pdf).
 
 education:
     - degree: BSc in Computer Science and Engineering
       university: Shahjalal University of Science and Technology (SUST)
-      time: 2005 - 2011
+      time: 2005 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -172,22 +172,19 @@ skills:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: To NSCache or not to NSCache, what is the URLCache
+        authors: [medium.com](https://medium.com/@master13sust/to-nscache-or-not-to-nscache-what-is-the-urlcache-35a0c3b02598)
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Generate a signed APK from React Native project
+        authors: [medium.com](https://medium.com/@master13sust/generate-a-signed-apk-from-react-native-project-fe1ed627186e)
+        conference:
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Vapor: Server Side Swift – Noob’s Guide."
+        authors: [Infolytx blog](http://www.infolytx.com/our-insights/tech/vapor/)
+        conference:
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
