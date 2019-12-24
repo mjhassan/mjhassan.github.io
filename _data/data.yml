@@ -172,7 +172,8 @@ skills:
 publications:
     title: Publications
     intro: |
-
+    Some of my publications
+    
     papers:
       - title: To NSCache or not to NSCache, what is the URLCache
         authors: [medium.com](https://medium.com/@master13sust/to-nscache-or-not-to-nscache-what-is-the-urlcache-35a0c3b02598)
