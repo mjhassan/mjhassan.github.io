@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    website: mjhassan.github.io #do not add http://
+    # website: mjhassan.github.io #do not add http://
     email: jahid.hassan.ce@gmail.com
     phone: +8801814450361
     skype: jahid.hassan52
@@ -182,4 +182,4 @@ publications:
         link: http://www.infolytx.com/our-insights/tech/vapor/
         
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by Jahid Hassan with the help of <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
