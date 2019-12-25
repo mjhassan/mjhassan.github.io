@@ -35,7 +35,7 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      Jahid Hassan, an iOS engineer, is from Dhaka, Bangladesh where he works as an staff software engineer at Infolytx Bangladesh Limited. He has around eight of experience with iOS with a focus on Swift. In spare time, Jahid enjoys playing with other technologies and good music.
+      Jahid Hassan, an iOS developer, is from Dhaka, Bangladesh where he works as an staff software engineer at Infolytx Bangladesh Limited. He has around eight of experience with iOS with a focus on Swift. In spare time, Jahid enjoys playing with other technologies and good music.
       You can [download his resume here](https://raw.githubusercontent.com/mjhassan/mjhassan.github.io/master/Resume%20of%20Jahid%20Hassan.pdf).
 
 education:
@@ -137,8 +137,24 @@ projects:
         tagline: "The New Homes App is designed for real-estate professionals. With the App you can search and find your clients dream home in our newest communities. Virtual tours, Renderings, Floor plans and views are all simply and elegantly displayed on the iPad."
 
       - title: nVision Mobile
-        link: "https://itunes.apple.com/us/app/nvision-mobile/id465051611?mt=8"
+        link: "https://apps.apple.com/us/app/christmas-ar/id1443510318?ls=1"
         tagline: "nVision Mobile is a sales force solution where sales reps can easily create orders, look up customers, stock information and products. nVision Mobile can be synchronized with all major ERP system using XML documents."
+      
+      - title: Christmas-AR
+        link: "https://itunes.apple.com/us/app/nvision-mobile/id465051611?mt=8"
+        tagline: "An augmented reality(AR) app for Christmas decoration. Using the app user can show their creativity on decorating, record and share it with friends and family."  
+
+      - title: Simplest Tabata
+        link: "https://apps.apple.com/us/app/simplest-tabata/id1244521167"
+        tagline: "Simplest Tabata is the best, innovative, and ultimate high-intensity interval training (HIIT) timer. It designs to workout effectively."
+
+      - title: IPCAT
+        link: "https://apps.apple.com/us/app/ipcat/id995635050"
+        tagline: "The WHO infection prevention and control (IPC) core components assessment tools (IPCAT) are based on the WHO document Core components for infection prevention and control programmes . They correspond to the 8 core components of IPC programmes which are essential to the strengthening of capacity for prevention of healthcare-associated infections (HAI) and preparing an efficient response to emergencies involving communicable diseases."
+      
+      - title: Cheap Ship
+        link: "https://apps.apple.com/us/app/cheap-ship/id1198506446?ls=1"
+        tagline: "Cheap Ship is a fun game designed using CoreAnimation. It's really simple and fun to play."
 
 skills:
     title: Skills &amp; Proficiency
