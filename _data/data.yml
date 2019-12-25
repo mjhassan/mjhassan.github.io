@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Jahid Hassan
-    tagline: iOS Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: iOS Developer | Staff Software Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     #website: blog.webjeda.com #do not add http://
@@ -43,14 +43,7 @@ education:
       university: Shahjalal University of Science and Technology (SUST)
       time: 2005 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Graduated with 3.74 in 2011
 
 experiences:
     - role: Staff Software Engineer
@@ -151,41 +144,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - <b>Swift</b>, Objective C, React Native, Xamarin, *Kotlin, Java, python, C, C++, HTML, CSS, Shell, Groovy*
+      - <b>UIKit, UIStoryboard, AutoLayout, CoreGraphics, MapKit, Xib, GCD</b>, CoreAnimation, ARKit, RxSwift, XCTest, APNS, Express.js, Node.js, *Electron.js, Vapor, Perfect, Quick and Nimble, JUnit, Mockito, NUnit, Moq*
+      - <b>CoreData</b>, SQLite, Realm, AWS, *Firebase, MongoDB, MySQL, MSSQL*
+      - <b>TDD, MVVM, MVC, Agile (Scrum, Kanban)</b>, BDD, MVP, *MVVM-C, VIPER*
+      - <b>Cocoapods, Git, Carthage</b>, SVN, *Package Manager*
+      - <b>Xcode, VSCode</b>, Android Studio, Instruments, Application Loader, Github, Bitbucket, GitLab, Jenkins, fastlane, Jira, Trello, AppStore Management, TestFlight, MS AppCenter, GooglePlay, *Eclipse, AppCoda, Postman, Sketch, Balsamiq, InVision, Figma*
+      - UI/UX, performance tuning and optimization, Team management and guiding
 
 publications:
     title: Publications
-    intro: |
-    Some of my publications
-    
+    intro: >
     papers:
       - title: To NSCache or not to NSCache, what is the URLCache
-        authors: [medium.com](https://medium.com/@master13sust/to-nscache-or-not-to-nscache-what-is-the-urlcache-35a0c3b02598)
-        conference: 
+        link: https://medium.com/@master13sust/to-nscache-or-not-to-nscache-what-is-the-urlcache-35a0c3b02598
 
       - title: Generate a signed APK from React Native project
-        authors: [medium.com](https://medium.com/@master13sust/generate-a-signed-apk-from-react-native-project-fe1ed627186e)
-        conference:
+        link: https://medium.com/@master13sust/generate-a-signed-apk-from-react-native-project-fe1ed627186e
 
       - title: "Vapor: Server Side Swift – Noob’s Guide."
-        authors: [Infolytx blog](http://www.infolytx.com/our-insights/tech/vapor/)
-        conference:
+        link: http://www.infolytx.com/our-insights/tech/vapor/
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
