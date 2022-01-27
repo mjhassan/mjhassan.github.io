@@ -2,10 +2,11 @@
 
 # Site Settings
 title: 'typealias Jahid: [swift, objc, rn]'
-url: 'http://mjhassan.github.io'
-baseurl: '/mjhassan.github.io'
+url: 'https://mjhassan.github.io'
+baseurl: 'https://mjhassan.github.io'
+
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: ceramic # blue turquoise green berry orange ceramic
+theme_skin: minimal # blue turquoise green berry orange ceramic minmal
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
