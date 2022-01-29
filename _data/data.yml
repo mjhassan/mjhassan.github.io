@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jahid Hassan
-    tagline: iOS Developer | Staff Software Engineer
+    tagline: iOS App Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -35,7 +35,7 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      Jahid Hassan, an iOS developer, is from Dhaka, Bangladesh where he works as an staff software engineer at Infolytx Bangladesh Limited. He has around nine years of experience with iOS with a focus on Swift. In spare time, Jahid enjoys playing with other technologies and good music.
+      Jahid Hassan, an iOS app developer, is from Dhaka, Bangladesh. He currently works remotely as a Software Engineer III (iOS) at PayPay Corporation, Tokyo,Japan. He has 10+ years of experience with iOS with a focus on Swift. In spare time, Jahid enjoys playing with other technologies and good music.
       You can [download his resume here](https://raw.githubusercontent.com/mjhassan/mjhassan.github.io/master/Resume%20of%20Jahid%20Hassan.pdf).
 
 education:
@@ -46,8 +46,20 @@ education:
         Graduated with 3.74 in 2011
 
 experiences:
+    - role: Software Engineer III (iOS)
+      time: Mar 2021 - Present
+      company: PayPay Corporation, Tokyo, Japan
+      details: |
+        -  Work with product team to add and customize the payment experience
+        - Collaborate and lead team's services architecture, and develop and distribute new features
+        - Own technical aspects of developing modules
+        - Ensure exemplary code quality is maintained
+        - Identify and resolve issues at fast paced agile environment
+        - Contribute on assigned management tasks
+
+experiences:
     - role: Staff Software Engineer
-      time: Apr 2019 - Present
+      time: Apr 2019 - Mar 2021
       company: Infolytx Bangladesh Ltd., Dhaka
       details: |
         - Develop engineering system required documents along with design mobile software.
