@@ -46,7 +46,7 @@ education:
         Graduated with 3.74 in 2011
 
 experiences:
-    - role: Software Engineer III (iOS)
+  - role: Software Engineer III (iOS)
       time: Mar 2021 - Present
       company: PayPay Corporation, Tokyo, Japan
       details: |
@@ -57,7 +57,6 @@ experiences:
         - Identify and resolve issues at fast paced agile environment
         - Contribute on assigned management tasks
 
-experiences:
     - role: Staff Software Engineer
       time: Apr 2019 - Mar 2021
       company: Infolytx Bangladesh Ltd., Dhaka
