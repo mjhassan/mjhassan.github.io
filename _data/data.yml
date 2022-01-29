@@ -46,7 +46,7 @@ education:
         Graduated with 3.74 in 2011
 
 experiences:
-  - role: Software Engineer III (iOS)
+    - role: Software Engineer III (iOS)
       time: Mar 2021 - Present
       company: PayPay Corporation, Tokyo, Japan
       details: |
